@@ -1,13 +1,21 @@
 
--------------
+
 ### :trophy:   Сертификат - GB - Java-разработчик
+![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20GB%20-%20Java-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA.jpg "Логотип Markdown")
+
+
+
+
+
+
+
 <div>
     <a>
       <img src="https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20GB%20-%20Java-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA.jpg" align="right" width="410" height="330" />
     </a>
 </div>
 <div style="page-break-after: always"></div>
--------------
+
 ### :trophy:   Сертификат - GB - Закомство с веб-безопасностью
 <div>
     <a>
@@ -15,7 +23,7 @@
     </a>
 </div>
 <div style="page-break-after: always"></div>
--------------
+
 ### :trophy:   Сертификат - GB - Основы безопасности и анонимности в сети
 <div>
     <a>
@@ -23,6 +31,6 @@
     </a>
 </div>
 <div style="page-break-after: always"></div>
--------------
+
 ### :fire: 
 
