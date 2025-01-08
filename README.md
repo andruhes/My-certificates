@@ -26,7 +26,7 @@
 
 ### :fire: My Stats:
 
-| <a href="https://github.com/andruhes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andruhes_icons=true&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=DataCamp_projects&hide_border=true&theme=flag-india" alt="stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andruhes&hide_border=true" alt="stats" /></a></a> |
+| <a href="https://github.com/andruhes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andruhes&show_icons=true&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=DataCamp_projects&hide_border=true&theme=flag-india" alt="stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andruhes&hide_border=true" alt="stats" /></a></a> |
 | ------------- | ------------- |
 
 
