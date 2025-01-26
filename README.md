@@ -33,8 +33,8 @@
 
  
 ----------------
-### :trophy:   Сертификат - KSMG_cert_MarkushevAM
-![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20KSMG_cert_MarkushevAM.jpg "Сертификат - GB - Сертификат - KSMG_cert_MarkushevAM")
+### :trophy:   Сертификат - Kaspersky Secure Mail Gateway
+![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20KSMG_cert_MarkushevAM.jpg "Сертификат - GB - Сертификат - Kaspersky Secure Mail Gateway")
 
  
 ----------------
