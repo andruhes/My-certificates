@@ -41,6 +41,11 @@
 ### :trophy:   Сертификат - Merion - Asterisk
 ![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20Merion%20-%20Asterisk.jpg "Сертификат - GB - Сертификат - Merion - Asterisk")
 
+
+----------------
+### :trophy:   Сертификат - Merion - Asterisk PRO
+![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20Merion%20-%20Asterisk%20PRO.jpg "Сертификат - GB - Сертификат - Merion - Asterisk PRO")
+
  
 ----------------
 ### :trophy:   Сертификат - Merion - GIT
@@ -65,6 +70,11 @@
 ----------------
 ### :trophy:   Сертификат - Merion - администрирование Windows
 ![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20Merion%20-%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20Windows.jpg "Сертификат - Merion - администрирование Windows")
+
+
+----------------
+### :trophy:   Сертификат - Merion - DevOps инженер
+![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20Merion%20-%20DevOps.jpg "Сертификат - GB - Сертификат - Merion - DevOps инженер")
 
  
 ----------------
