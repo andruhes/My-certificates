@@ -76,6 +76,11 @@
 ### :trophy:   Сертификат - Merion - DevOps инженер
 ![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20Merion%20-%20DevOps.jpg "Сертификат - GB - Сертификат - Merion - DevOps инженер")
 
+
+----------------
+### :trophy:   Сертификат - Merion - Виртуализация VMware vSphere
+![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20Merion%20-%20VMware%20vSphere%207.jpg "Сертификат - Merion - Виртуализация VMware vSphere")
+
  
 ----------------
 ### :trophy:   Сертификат - OTUS - Linux для начинающих
