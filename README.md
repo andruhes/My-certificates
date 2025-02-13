@@ -88,7 +88,7 @@
 
 
 ----------------
-### :trophy:   Сертификат - Сертификат - Merion - Этичный хакинг
+### :trophy:   Сертификат - Merion - Этичный хакинг
 ![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20Merion%20-%20%D0%AD%D1%82%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D1%85%D0%B0%D0%BA%D0%B8%D0%BD%D0%B3.jpg "Сертификат - Merion - Этичный хакинг")
 
 
