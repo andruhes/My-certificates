@@ -168,8 +168,8 @@
 
  
 ----------------
-### :trophy:   Сертификат - курсы_по_ИТ - MikroTik - 24120201CA02
-![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20%D0%BA%D1%83%D1%80%D1%81%D1%8B_%D0%BF%D0%BE_%D0%98%D0%A2%20-%20MikroTik%20-%2024120201CA02.jpg "Сертификат - курсы_по_ИТ - MikroTik - 24120201CA02")
+### :trophy:   Сертификат - курсы_по_ИТ - MikroTik - MTCNA
+![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20%D0%BA%D1%83%D1%80%D1%81%D1%8B_%D0%BF%D0%BE_%D0%98%D0%A2%20-%20MikroTik%20-%2024120201CA02.jpg "Сертификат - курсы_по_ИТ - MikroTik - MTCNA")
 
  
 ----------------
