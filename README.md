@@ -3,30 +3,6 @@
 
 
 ----------------
-
-### :trophy:   Сертификат - GB - Java-разработчик
-![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20GB%20-%20Java-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA.jpg "Сертификат - GB - Java-разработчик")
-
-
-----------------
-
-### :trophy:   Сертификат - GB - Закомство с веб-безопасностью
-
-![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20GB%20-%20%D0%97%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D0%B2%D0%B5%D0%B1-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%D1%8E.jpg "Сертификат - GB - Закомство с веб-безопасностью")
-
-
-----------------
-
-### :trophy:   Сертификат - GB - Основы безопасности и анонимности в сети
-![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20GB%20-%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%20%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B8.jpg "Сертификат - GB - Основы безопасности и анонимности в сети")
-
- 
-----------------
-### :trophy:   Сертификат - GB - Основы программирования
-![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20GB%20-%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg "Сертификат - GB - Основы программирования")
-
- 
-----------------
 ### :trophy:   Сертификат - GB - Создание одностраничного сайта
 ![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20GB%20-%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0.jpg "Сертификат - GB - Создание одностраничного сайта")
 
@@ -103,11 +79,6 @@
 
 
 ----------------
-### :trophy:   Сертификат - OTUS - Linux для начинающих
-![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20OTUS%20-%20Linux%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85.jpg "Сертификат - OTUS - Linux для начинающих")
-
- 
-----------------
 ### :trophy:   Сертификат - OTUS - Administrator Linux. Professional
 ![Изображение](https://github.com/andruhes/Lin_PRO/blob/main/linpro.jpg "Сертификат - OTUS - Administrator Linux. Professional")
 
@@ -153,11 +124,6 @@
 
  
 ----------------
-### :trophy:   Сертификат - Академия IT - TCP IP
-![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F%20IT%20-%20TCP%20IP.jpg "Сертификат - Академия IT - TCP IP")
-
- 
-----------------
 ### :trophy:   Сертификат - Академия IT - Криптография
 ![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F%20IT%20-%20%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F.jpg "Сертификат - Академия IT - Криптография")
 
@@ -170,21 +136,6 @@
 ----------------
 ### :trophy:   Сертификат - Лекториум - RSUH security
 ![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20%D0%9B%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%83%D0%BC%20-%20RSUH%20security.jpg "Сертификат - Лекториум - RSUH security")
-
- 
-----------------
-### :trophy:   Сертификат - Нетология - Основы Python создаём телеграм-бота
-![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20-%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Python%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%91%D0%BC%20%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-%D0%B1%D0%BE%D1%82%D0%B0.jpg "Сертификат - Нетология - Основы Python создаём телеграм-бота")
-
- 
-----------------
-### :trophy:   Сертификат - Нетология - Основы разработки на Java
-![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20-%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%20%D0%BD%D0%B0%20Java.jpg "Сертификат - Нетология - Основы разработки на Java")
-
- 
-----------------
-### :trophy:   Сертификат - Нетология - Спец по информационной безопасности
-![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20%D0%9D%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20-%20%D0%A1%D0%BF%D0%B5%D1%86%20%D0%BF%D0%BE%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.jpg "Сертификат - Нетология - Спец по информационной безопасности")
 
  
 ----------------
