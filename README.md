@@ -88,11 +88,6 @@
 
 
 ----------------
-### :trophy:   Сертификат - Stepik - English
-![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20Stepik%20-%20English.jpg "Сертификат - GB - Сертификат - Stepik - English")
-
- 
-----------------
 ### :trophy:   Сертификат - Stepik - LPI Linux Essentials 010-160
 ![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20Stepik%20-%20LPI%20Linux%20Essentials%20010-160.jpg "Сертификат - Stepik - LPI Linux Essentials 010-160")
 
