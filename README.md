@@ -121,6 +121,21 @@
 ### :trophy:   Сертификат - курсы_по_ИТ - MikroTik - MTCNA
 ![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20%D0%BA%D1%83%D1%80%D1%81%D1%8B_%D0%BF%D0%BE_%D0%98%D0%A2%20-%20MikroTik%20-%2024120201CA02.jpg "Сертификат - курсы_по_ИТ - MikroTik - MTCNA")
 
+
+----------------
+### :trophy:   Удостоверение - Алтэкс Софт - администрирование RedCheck
+![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A3%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5%20-%20%D0%90%D0%BB%D1%82%D1%8D%D0%BA%D1%81%20%D0%A1%D0%BE%D1%84%D1%82%20-%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20RedCheck.jpg "Удостоверение - Алтэкс Софт - администрирование RedCheck")
+
+
+----------------
+### :trophy:   Удостоверение - OTUS - Administrator Linux. Professional
+![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A3%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5%20-%20OTUS%20-%20Administrator%20Linux.%20Professional.jpg "Удостоверение - OTUS - Administrator Linux. Professional")
+
+
+----------------
+### :trophy:   Удостоверение - Specialist - Администрирование Microsoft Exchange Server 2019 2016
+![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%A3%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5%20-%20Specialist%20-%20%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20Microsoft%20Exchange%20Server%202019%202016.jpg "Удостоверение - Specialist - Администрирование Microsoft Exchange Server 2019 2016")
+
  
 ----------------
 ### :trophy:   Диплом об окончании высшего учебного заведения, магистратура - Московский технологический институт (МТИ)
