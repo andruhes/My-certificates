@@ -83,7 +83,7 @@
 
  
 ----------------
-### :trophy:   Удостоверение - Администрирование RedCheck
+### :trophy:   Сертификат - Администрирование RedCheck
 ![Изображение](https://github.com/andruhes/My-certificates/blob/main/redcheck.jpg "Удостоверение - Администрирование RedCheck")
 
 
