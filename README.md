@@ -144,7 +144,7 @@
  
 ----------------
 ### :trophy:   Диплом об окончании высшего учебного заведения, магистратура - Московский технологический институт (МТИ)
-![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%9C%D0%A2%D0%98%20%20%D0%9C%D0%B0%D1%80%D0%BA%D1%83%D1%88%D0%B5%D0%B2%20%D0%90.%D0%9C.jpg)
+![Изображение](https://github.com/andruhes/My-certificates/blob/main/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%9C%D0%A2%D0%98%20%20%D0%9C%D0%B0%D1%80%D0%BA%D1%83%D1%88%D0%B5%D0%B2%20%D0%90.%D0%9C.jpg)
 
 
 ----------------
